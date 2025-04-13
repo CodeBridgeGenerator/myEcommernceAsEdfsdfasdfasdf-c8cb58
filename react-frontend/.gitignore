@@ -1,0 +1,21 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# environments
+.env
+.env_sit
+.env_uat
+.env_stg
+.env_prd
+.env_test
+
+# misc
+.DS_Store
